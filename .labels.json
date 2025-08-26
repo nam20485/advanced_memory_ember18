@@ -1,0 +1,32 @@
+[
+  {
+    "description": "Something is not working",
+    "color": "d73a4a",
+    "name": "bug"
+  },
+  {
+    "description": "Improvements or additions to documentation",
+    "color": "0075ca",
+    "name": "documentation"
+  },
+  {
+    "description": "New feature or request",
+    "color": "a2eeef",
+    "name": "enhancement"
+  },
+  {
+    "description": "Good for newcomers",
+    "color": "7057ff",
+    "name": "good first issue"
+  },
+  {
+    "description": "Extra attention is needed",
+    "color": "008672",
+    "name": "help wanted"
+  },
+  {
+    "description": "Further information is requested",
+    "color": "d876e3",
+    "name": "question"
+  }
+]
